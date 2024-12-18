@@ -1,0 +1,7 @@
+{
+  "name": "rwt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
